@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\OpenGl\prctice\MeshDarwCoord\main.cpp(19,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\OpenGl\prctice\MeshDarwCoord\main.cpp(42,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\OpenGl\prctice\MeshDarwCoord\main.cpp(43,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\OpenGl\prctice\MeshDarwCoord\main.cpp(103,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\OpenGl\prctice\MeshDarwCoord\main.cpp(104,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\OpenGl\prctice\MeshDarwCoord\main.cpp(164,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\OpenGl\prctice\MeshDarwCoord\main.cpp(165,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  MeshDarwCoord.vcxproj -> D:\OpenGl\prctice\MeshDarwCoord\Debug\MeshDarwCoord.exe
