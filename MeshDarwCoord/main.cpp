@@ -14,19 +14,19 @@ int main()
 {
 	
 	int n = 4, count = 10000, k = -1;
-	int ArixLength = 30;
-	double r_circle = 0.3;
-	float ArrowLength = ArixLength + 0.8;
-	DrawZCoord(n,count, k, ArixLength, r_circle, ArrowLength, "Z");
-	DrawYCoord(n, count, k, ArixLength, r_circle, ArrowLength, "Y");
-	DrawXCoord(n, count, k, ArixLength, r_circle, ArrowLength, "X");
+	//int ArixLength = 30;
+	//double r_circle = 0.3;
+	//float ArrowLength = ArixLength + 0.8;
+	//DrawZCoord(n,count, k, ArixLength, r_circle, ArrowLength, "Z");
+	//DrawYCoord(n, count, k, ArixLength, r_circle, ArrowLength, "Y");
+	//DrawXCoord(n, count, k, ArixLength, r_circle, ArrowLength, "X");
 
-	/*float ArixLength = 0.15;
+	float ArixLength = 0.15;
 	double r_circle = 30;
 	float ArrowLength = ArixLength + 0.8;
 	DrawZCoord(n, count, k, ArixLength, r_circle, ArrowLength, "XOY");
 	DrawYCoord(n, count, k, ArixLength, r_circle, ArrowLength, "XOZ");
-	DrawXCoord(n, count, k, ArixLength, r_circle, ArrowLength, "YOZ"); */
+	DrawXCoord(n, count, k, ArixLength, r_circle, ArrowLength, "YOZ"); 
 
 }
 void DrawZCoord(int n, int count, int k, double ArixLength, double r_circle, float ArrowLength, string filename)
